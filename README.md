@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Christine!
 
-I'm proficient in Python and currently learning Java. 
+I'm proficient in Python and am currently learning Java. 
 <!--
 **christine-kapp/christine-kapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
