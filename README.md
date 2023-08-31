@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Christine!
 
-I'm proficient in Python, intermediate in frontend HTML/CSS, and am currently learning Java. 
+I'm proficient in Python, intermediate in HTML/CSS, and am currently learning Java. 
 
 Feel free to take a look at some of my previous work.
 <!--
