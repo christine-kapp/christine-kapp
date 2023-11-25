@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Christine!
 
-I'm proficient in Python, beginner work in HTML/CSS, and am currently learning Java. 
+I'm proficient in Python, beginner work in HTML/CSS, Django, as well as Swift, and am currently learning Java. 
 
 Experience in Data Analysis and Data Visualization using Python libraries: Numpy, Pandas, Matplotlib.
 
