@@ -1,11 +1,10 @@
 ### Hi there 👋
 I'm Christine!
 
-I'm proficient in Python, beginner work in HTML/CSS, Django, as well as Swift, and am currently learning Java. 
+Programming Langauges: Python, Java, HTML/CSS.
 
 Experience in Data Analysis and Data Visualization using Python libraries: Numpy, Pandas, Matplotlib.
 
-You'll find my resume attached to this README file. Feel free to take a look at some of my previous work.
 <!--
 **christine-kapp/christine-kapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
